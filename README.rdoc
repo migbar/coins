@@ -1,6 +1,10 @@
 = coins
 
-Description goes here.
+Simple trick where you put a number of coins on top of the bar (some heads, some tails) and turn around.
+You ask your friend to make any number of flips to any number of coins in any order -- without you looking.
+As he makes the flips he notifies you that he is making them. 
+
+He then covers one of the coins. You turn around and you must guess what the hidden coin is.
 
 == Contributing to coins
  
